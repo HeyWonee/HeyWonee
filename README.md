@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">:pencil2: 사용자 편의를 향상하고 싶은 프론트엔드</h2>
+<h2 align="center">:pencil2: 고객의 고민을 대신하는 프론트엔드</h2>
 </br>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> &nbsp
